@@ -9,4 +9,5 @@
 
 1. First Install 'Water Reminder +' from the IOS App store for the apple watch
 2. 'Accept' Notifications - 'Water Reminder +' requires permissions to use your Apple Watch Notifications. Be sure to allow permissions if the app first starts so you can use all our features. - If you accidently declined giving 'Water Reminder +' permissions, you can always change your mind in settings.
-3. Stay Hydrated!
+3. Remeber each time you drink a cup(250ml) of water to update 'Water Reminder +' by clicking the button. 
+4. Stay Hydrated!
